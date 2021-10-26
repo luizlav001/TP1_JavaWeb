@@ -45,5 +45,4 @@ public class UsuarioControler extends HttpServlet {
 				+ "</body>"
 				+ "</html>");
 	}
-
 }
